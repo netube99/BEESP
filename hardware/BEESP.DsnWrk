@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=BEESP_CODE\BEESP_CODE.PrjPcb
+[Project2]
+ProjectPath=BEESP_KIT\BEESP_KIT.PrjPcb
