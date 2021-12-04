@@ -142,10 +142,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDYBPFTT
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for BEESP_CODE\Design Rule Check - BEESP_CODE.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
